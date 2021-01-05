@@ -1,0 +1,16 @@
+# Site settings
+name: Salman Al Farisi
+email: email
+url: url
+description: "A blog and a portfolio"
+author: "author"
+title: "Salman Al Farisi"
+permalink: pretty
+baseurl: /jekyll-theme-blogfolio
+
+# social
+github:
+  username: username
+
+twitter:
+  username: username
